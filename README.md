@@ -32,6 +32,8 @@ Este relatório foi desenvolvido para:
  
 Se quiser trocar ideias sobre QA, desenvolvimento ou mercado de TI, pode me chamar:  
  
-- ✉️ **Email:** juciarae.c@gmail.com  
-- 💼 **LinkedIn:** [linkedin.com/in/juciara-e-c](https://www.linkedin.com/in/juciara-e-c)  
-- 📱 **WhatsApp:** (11) 96284-9255  
+- ✉️ **Email:** leandrotottioficial.cantor@gmail.com  
+- 💼 **LinkedIn:** [www.linkedin.com/in/
+leandro-félix-cavalcante
+)  
+- 📱 **WhatsApp:** (11) 94738 5979 
