@@ -12,10 +12,10 @@ O objetivo é identificar as **hard skills obrigatórias e desejáveis**, além 
  
 ## 📄 Relatório em PDF  
  
-📌 Acesse o relatório completo em PDF pelos links abaixo:  
+📌 Acesse o relatório completo em PDF pelos links abaixo: 
  
 - 📥 [Baixar diretamente o PDF](https://github.com/juciiara/Relatorio_Vagas_TI/blob/main/Relatorio_Vagas_TI.pdf )  
-- 🔎 [Visualizar no GitHub](https://github.com/juciiara/Relatorio_Vagas_TI?tab=readme-ov-file)
+- 🔎 [Visualizar no GitHub](https://github.com/leandrotottioficialcantor-cpu/Relat-rios_Vagas_TI/tree/main)
  
 ---
  
