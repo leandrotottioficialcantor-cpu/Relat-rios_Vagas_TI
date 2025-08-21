@@ -34,4 +34,4 @@ Se quiser trocar ideias sobre QA, desenvolvimento ou mercado de TI, pode me cham
  
 - ✉️ **Email:** leandrotottioficial.cantor@gmail.com
 - [Linkedln](https://www.linkedin.com/in/leandro-félix-cavalcante)
-- 📱 **WhatsApp:** (11) 94738 5979 
+- [Whatsapp](https://wa.me/5511947385979)
