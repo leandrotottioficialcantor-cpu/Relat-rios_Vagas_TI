@@ -32,8 +32,6 @@ Este relatório foi desenvolvido para:
  
 Se quiser trocar ideias sobre QA, desenvolvimento ou mercado de TI, pode me chamar:  
  
-- ✉️ **Email:** leandrotottioficial.cantor@gmail.com  
-- 💼 **LinkedIn:** [www.linkedin.com/in/
-leandro-félix-cavalcante
-)  
+- ✉️ **Email:** leandrotottioficial.cantor@gmail.com
+- [Linkedln](https://www.linkedin.com/in/leandro-félix-cavalcante)
 - 📱 **WhatsApp:** (11) 94738 5979 
